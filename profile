@@ -1,4 +1,4 @@
-full name: COSMAS CHUKWUBUIKE
+Full Name: COSMAS CHUKWUBUIKE
 Email: ContactcosmAs@gmail.com
 Address: Devine Estate, Ibeju-Lekki, Lagos. 
 Slack username: theCosmas
